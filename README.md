@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=talgat55&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=talgat55&show_icons=true&theme=dark)
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=t5lg5t55)
