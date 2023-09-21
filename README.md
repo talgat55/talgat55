@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=talgat55)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=talgat55&theme=modern-lilac)](https://git.io/streak-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=t5lg5t55)
 
