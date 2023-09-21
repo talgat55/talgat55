@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talgat55&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
 ![Codewars](https://github.r2v.ch/codewars?user=t5lg5t55)
 
